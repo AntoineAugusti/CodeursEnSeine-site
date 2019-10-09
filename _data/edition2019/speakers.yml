@@ -187,6 +187,7 @@
 
 - name: Antoine Augusti
   company: Etalab
+  bio: "<p>Antoine Augusti est un ingénieur en informatique travaillant à Etalab, un service du Premier ministre en charge de la politique des données en France. Il cherche à faire du meilleur numérique dans la fonction publique</p>."
   images: /antoine-augusti.jpg
   links:
     - label: Twitter
